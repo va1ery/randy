@@ -1,0 +1,16 @@
+Vivado Simulator v2020.2.2
+Copyright 1986-1999, 2001-2021 Xilinx, Inc. All Rights Reserved.
+Running: /home/leo/tools/Xilinx/Vivado/2020.2/bin/unwrapped/lnx64.o/xelab -wto 0b87bbfc0f8649b39e0b688a7981f14f --incr --debug typical --relax --mt 8 -L xil_defaultlib -L unisims_ver -L unimacro_ver -L secureip --snapshot test_behav xil_defaultlib.test xil_defaultlib.glbl -log elaborate.log 
+Using 8 slave threads.
+Starting static elaboration
+Pass Through NonSizing Optimizer
+Completed static elaboration
+Starting simulation data flow analysis
+WARNING: [XSIM 43-4099] "/home/leo/random_gen/random_gen.srcs/sources_1/new/LFSR.v" Line 1. Module LFSR doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "/home/leo/random_gen/random_gen.srcs/sources_1/new/LFSR.v" Line 1. Module LFSR doesn't have a timescale but at least one module in design has a timescale.
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling module xil_defaultlib.LFSR
+Compiling module xil_defaultlib.test
+Compiling module xil_defaultlib.glbl
+Built simulation snapshot test_behav

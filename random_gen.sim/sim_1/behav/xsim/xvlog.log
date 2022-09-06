@@ -1,0 +1,5 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/leo/random_gen/random_gen.srcs/sources_1/new/LFSR.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module LFSR
+WARNING: [VRFC 10-3380] identifier 'random' is used before its declaration [/home/leo/random_gen/random_gen.srcs/sources_1/new/LFSR.v:7]
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/leo/random_gen/random_gen.srcs/sim_1/new/test.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module test
